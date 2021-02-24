@@ -8,7 +8,7 @@ $ chmod +x working
 $ ./working
 ```
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://imgur.com/a/SF4ZFIC)](https://www.youtube.com/watch?v=UlyZRR277lI)
 ![Metrics](https://metrics.lecoq.io/CyberTKR?template=terminal&config.timezone=Europe%2FIstanbul)
 
 <html>
