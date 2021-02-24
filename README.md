@@ -7,7 +7,7 @@ Installation
 $ chmod +x working
 $ ./working
 ```
-[![Demo CountPages alpha](https://i.ibb.co/LzkYXCP/Example.gif)](https://www.youtube.com/watch?v=UlyZRR277lI)
+[![Example youtube Video](https://i.ibb.co/LzkYXCP/Example.gif)](https://www.youtube.com/watch?v=UlyZRR277lI)
 
 
 ![Metrics](https://metrics.lecoq.io/CyberTKR?template=terminal&config.timezone=Europe%2FIstanbul)
