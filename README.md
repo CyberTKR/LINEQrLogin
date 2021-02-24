@@ -7,7 +7,7 @@ Installation
 $ chmod +x working
 $ ./working
 ```
-![caption](/IMG/Example.mp4)
+![caption](https://github.com/CyberTKR/LINEQrLogin/blob/master/IMG/Example.mp4)
 
 ![Metrics](https://metrics.lecoq.io/CyberTKR?template=terminal&config.timezone=Europe%2FIstanbul)
 
