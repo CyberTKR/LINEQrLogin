@@ -7,8 +7,8 @@ Installation
 $ chmod +x working
 $ ./working
 ```
-![caption](https://www.youtube.com/watch?v=UlyZRR277lI)
 
+[![Watch the video](https://www.youtube.com/watch?v=UlyZRR277lI)
 ![Metrics](https://metrics.lecoq.io/CyberTKR?template=terminal&config.timezone=Europe%2FIstanbul)
 
 <html>
