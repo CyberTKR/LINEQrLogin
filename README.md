@@ -1,9 +1,10 @@
-# LINEQrLogin
 ```bash
 
 Installation
 ------------
 
+$ git clone https://github.com/Cyber-TKR/qrLOGIN-LINE
+$ cd qrLOGIN-LINE
 $ chmod +x working
 $ ./working
 ```
